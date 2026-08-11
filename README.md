@@ -1,1 +1,3 @@
 # KEA202608
+
+client = openai.OpenAI(api_key="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")
