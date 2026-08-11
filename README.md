@@ -19,7 +19,7 @@
 
 ### 5. key ###
 0) key
-client = openai.OpenAI(api_key="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")
+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
 
 1) hf_read
 hf_read="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"
