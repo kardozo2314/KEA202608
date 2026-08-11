@@ -16,13 +16,3 @@
 ### 4. 실습 자료 다운로드 ###
 
 * **[day1_class].zip, [day2-class].zip** 파일을 다운로드 받으세요.
-
-### 5. key ###
-0) key
-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
-
-2) hf_read
-hf_read="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"
-
-3) hf_write
-hf_write="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"
